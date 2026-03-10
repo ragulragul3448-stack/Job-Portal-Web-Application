@@ -12,7 +12,7 @@ A comprehensive job portal application built using the MERN (MongoDB, Express.js
 ## Technologies Used
 
 - **Frontend:** React.js, React Router, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB
+- **Backend:** Node.js, Express.js, 
 - **Authentication:** JWT (JSON Web Tokens), Bcrypt (for password hash)
 - **Image Upload:** Cloudinary for storing and managing uploaded images
 - **Deployment:** Vercel (frontend), Render(backend), MongoDB Atlas (database)
@@ -89,4 +89,5 @@ Contributions are what make the open-source community such an amazing place to l
 ## Please give a star ⭐ to the repository if you like it.
 
 ## Contact
+ https://github.com/ragulragul3448-stack/Job-Portal-Web-Application.git
 
