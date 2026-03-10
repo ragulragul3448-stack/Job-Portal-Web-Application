@@ -74,7 +74,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    npm run dev
    ```
-7. Open your browser and navigate to `http://localhost:5173` to view the app.
+7. Open your browser and navigate to `http://localhost:5173/login` to view the app.
 
 ## Contributing
 
@@ -90,6 +90,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Abhishek Rajput - [GitHub](https://github.com/exclusiveabhi)
-
-Project Link: [https://github.com/exclusiveabhi/react-job-portal.git](https://github.com/exclusiveabhi/react-job-portal.git)
